@@ -1,0 +1,9 @@
+.place__website-link {
+    font-family: 'inter', sans-serif;
+    color: #FFFFFF;
+
+}
+
+.place__website-link:hover {
+    opacity: 80%;
+}
