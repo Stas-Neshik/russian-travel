@@ -1,0 +1,11 @@
+.place__website {
+    align-self: end;
+    padding-bottom: 48px;
+}
+
+
+@media screen and (min-width:320px) {
+    .place__website {
+        padding-bottom: 32px;
+    }
+}
