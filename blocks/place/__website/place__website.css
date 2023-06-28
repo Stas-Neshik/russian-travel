@@ -1,0 +1,8 @@
+.place__website {
+    align-self: end;
+}
+
+
+@media screen and (min-width:320px) {
+    .place__website {}
+}
